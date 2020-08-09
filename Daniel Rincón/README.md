@@ -11,8 +11,8 @@
 * [Jugar videojuegos](https://www.ea.com/es-es/games/apex-legends)
 
 ### Carreras
-[x] Ingeniería civil
-[ ] Ingeniería de sistemas
+- [x] Ingeniería civil
+- [ ] Ingeniería de sistemas
 
 ### Primer programa
 ```python
