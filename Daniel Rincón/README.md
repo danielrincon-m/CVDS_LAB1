@@ -1,8 +1,8 @@
 # Presentación
 
 ### Datos básicos
-**Nombre:**  *Daniel Felipe Rincón*
-**N° de Carné:**  *3104340*
+**Nombre:**  *Daniel Felipe Rincón*\
+**N° de Carné:**  *3104340*\
 **Edad:** 23
 
 ### Actividades favoritas
@@ -11,8 +11,8 @@
 * [Jugar videojuegos](https://www.ea.com/es-es/games/apex-legends)
 
 ### Carreras
--[x] Ingeniería civil
--[ ] Ingeniería de sistemas
+[x] Ingeniería civil
+[ ] Ingeniería de sistemas
 
 ### Primer programa
 ```python
