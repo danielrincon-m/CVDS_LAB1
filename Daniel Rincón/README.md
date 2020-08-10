@@ -24,9 +24,7 @@ main()
 ### Tomás
 ![Tomás](cat.jpg)
 
-
-
-___
+/ ___
 # GIT Branching
 
 ### Main
