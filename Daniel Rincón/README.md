@@ -23,12 +23,12 @@ main()
 
 ### Tomás
 ![Tomás](cat.jpg)
-
-
+\
+\
 # GIT Branching
 
-### main
+### Main
 ![main](main.jpg)
 
-### remote
+### Remote
 ![remote](remote.jpg)
